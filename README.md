@@ -1,6 +1,6 @@
 
 # MMDetection
-This is my modification of mmdetection.(https://github.com/open-mmlab/mmdetection
+This code is my based on mmdetection.(https://github.com/open-mmlab/mmdetection
 
 
 [Example]
